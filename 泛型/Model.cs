@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace 泛型
 {
 
-
+    //全都是泡沫
     public interface ISports
     {
         void PingPang();
